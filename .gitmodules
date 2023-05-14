@@ -1,0 +1,3 @@
+[submodule "EnumsSantander"]
+	path = EnumsSantander
+	url = https://github.com/hgrafa/EnumsSantander.git
